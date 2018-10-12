@@ -7,7 +7,9 @@
 
 ![](header.jpg)
 
-This is the kaggle house prices prediction challenge (https://www.kaggle.com/c/house-prices-advanced-regression-techniques). In the regression problem, I use different model to train the dataset, including Lasso, Elastic Net, Kernel Ridge, SVR, Gradient Boosting Regression, XGBoost, LightGBM. Finally I got a result 0.1155 of Root-Mean-Squared-Error (RMSE) on logarithm of the house price and ranked top 7% (320/4629) on Kaggle. 
+This is the kaggle house prices prediction challenge (https://www.kaggle.com/c/house-prices-advanced-regression-techniques). In the regression problem, I use different model to train the dataset, including Lasso, Elastic Net, Kernel Ridge, SVR, Gradient Boosting Regression, XGBoost, LightGBM. Finally I got a result 0.1155 of Root-Mean-Squared-Error (RMSE) on logarithm of the house price and ranked top 3% (110/3152) on Kaggle. 
+
+![](certification2.png =250x)
 
 ### Usage
 
